@@ -8,3 +8,4 @@ https://www.programiz.com/cpp-programming/strings
 https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm
 http://www.cplusplus.com/reference/cstdlib/exit/
 http://www.cplusplus.com/reference/ios/ios/eof/
+https://en.cppreference.com/w/cpp/io
